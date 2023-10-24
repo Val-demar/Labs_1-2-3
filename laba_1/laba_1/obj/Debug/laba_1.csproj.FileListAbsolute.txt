@@ -1,0 +1,8 @@
+X:\учет\laba_1\laba_1\bin\Debug\laba_1.exe.config
+X:\учет\laba_1\laba_1\bin\Debug\laba_1.exe
+X:\учет\laba_1\laba_1\bin\Debug\laba_1.pdb
+X:\учет\laba_1\laba_1\obj\Debug\laba_1.csproj.AssemblyReference.cache
+X:\учет\laba_1\laba_1\obj\Debug\laba_1.csproj.SuggestedBindingRedirects.cache
+X:\учет\laba_1\laba_1\obj\Debug\laba_1.csproj.CoreCompileInputs.cache
+X:\учет\laba_1\laba_1\obj\Debug\laba_1.exe
+X:\учет\laba_1\laba_1\obj\Debug\laba_1.pdb

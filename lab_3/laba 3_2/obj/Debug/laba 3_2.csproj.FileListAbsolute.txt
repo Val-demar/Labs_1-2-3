@@ -1,0 +1,8 @@
+X:\учет\labs\laba 3_2\bin\Debug\laba 3_2.exe.config
+X:\учет\labs\laba 3_2\bin\Debug\laba 3_2.exe
+X:\учет\labs\laba 3_2\bin\Debug\laba 3_2.pdb
+X:\учет\labs\laba 3_2\obj\Debug\laba 3_2.csproj.AssemblyReference.cache
+X:\учет\labs\laba 3_2\obj\Debug\laba 3_2.csproj.SuggestedBindingRedirects.cache
+X:\учет\labs\laba 3_2\obj\Debug\laba 3_2.csproj.CoreCompileInputs.cache
+X:\учет\labs\laba 3_2\obj\Debug\laba 3_2.exe
+X:\учет\labs\laba 3_2\obj\Debug\laba 3_2.pdb

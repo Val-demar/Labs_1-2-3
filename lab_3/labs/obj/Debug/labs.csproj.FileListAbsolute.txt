@@ -1,0 +1,8 @@
+X:\учет\labs\labs\bin\Debug\labs.exe.config
+X:\учет\labs\labs\bin\Debug\labs.exe
+X:\учет\labs\labs\bin\Debug\labs.pdb
+X:\учет\labs\labs\obj\Debug\labs.csproj.AssemblyReference.cache
+X:\учет\labs\labs\obj\Debug\labs.csproj.SuggestedBindingRedirects.cache
+X:\учет\labs\labs\obj\Debug\labs.csproj.CoreCompileInputs.cache
+X:\учет\labs\labs\obj\Debug\labs.exe
+X:\учет\labs\labs\obj\Debug\labs.pdb
